@@ -21,9 +21,7 @@
     padding-left: 0px;
     display: inline-block
 }
-.row.blockDisplay {
-    display: block;
-}
+
 .column_half {
     width: 50%;
     float: left;
@@ -87,8 +85,7 @@
     margin-right: auto;
     margin-top: 0px;
     font-family: "Source Sans Pro";
-    font-weight: normal;
-    color: #FFFFFF;
+
     letter-spacing: 1px;
     margin-left: 0;
     text-align: center;
@@ -103,7 +100,7 @@
 
 }
 
-.secondary_header ul li a {
+.secondary_header ul li form {
     padding: 0px 0px;
     font-size: 1.5rem;
     cursor: pointer;
@@ -112,6 +109,8 @@
     position: relative;
     transition: all .2s;
     overflow: hidden;
+    width: 500px;
+    height : 130px;
 
 
 
@@ -151,7 +150,7 @@ button:hover::after {
 
 button:hover {
     transform: translate(0,-6px);
-    box-shadow: 10px -10px 25px 0px rgba(143,   64, 248, .25), -10px 10px 25px 0px rgba(39, 200,   255, .25);
+    box-shadow: 10px -10px 25px 0px rgba(143, 64, 248, .25), -10px 10px 25px 0px rgba(39, 200, 255, .25);
 }
 
 .rond {
@@ -159,9 +158,14 @@ button:hover {
     width: 80px;
     height: 80px;
     border-radius: 50%;
+    margin-right: auto;
+    margin-left: auto;
     background-color: #e3e0e0;
+    display: block;
+
 
 }
+
 
 
 
@@ -477,8 +481,7 @@ body {
     }
 }
 
-@media (min-width: 1001px) {
-}
+
 .thumbnail {
     width: 100px;
     border-radius: 200px;
