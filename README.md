@@ -6,7 +6,7 @@ NICOD Simon ; Gaetan JOBST ; Adrien LE GOUSSE
 
 
 # Livrable parties Économie et Documents numérique
-[écran prototype](doc/C2_NICOD/JOBST/LEGOUSSE.pdf)
+[écran prototype](doc/C2_NICOD_JOBST_LEGOUSSE.pdf)
 
 
 
