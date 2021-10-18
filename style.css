@@ -200,7 +200,7 @@ button:hover {
 .right_article {
     width: 40%;
     float: left;
-    background-color: #F6F6F6;
+
 }
 .container .right_article ul {
     margin-top: 0px;
@@ -255,9 +255,8 @@ button:hover {
 
     width: 100%;
     padding-top: 30px;
-    margin-top: 80px;
-
-    */
+    margin-top: 55px;
+    margin-bottom: 40px;
     padding-bottom: 30px;
     height: 100%;
 }
@@ -329,3 +328,5 @@ body {
     cursor: pointer;
     opacity: 0.5;
 }
+
+
