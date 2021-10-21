@@ -11,12 +11,23 @@ NICOD Simon ; Gaetan JOBST ; Adrien LE GOUSSE
 
 
 On a tout d'abord réalisé un écran de zoning qui servira de modèle à notre page d'acceuil
+Celui ci a été réalisé par Adrien 
 
 ![écran de zoning](doc/zoning.png)
 
-On a ensuite transposé ce modèle en html et rajouté des styles pour que cela nous convienne
+
+On a ensuite transposé ce modèle en html et rajouté quelques styles pour que la forme nous convienne
+Fait par Adrien et Simon
 
 ![écran prototype](doc/proto.png)
 
 Nous utiliserons le même fichier css pour toutes les pages afin que le site soit homogène.
+
+Le css a été en grande partie faite par Simon.
+Nous nous sommes répartis le travail sur la page d'acceuil.
+
+Chaque personne a ensuite rédigé une page de notre site. 
+Adrien a fait la page sur les services rendus, Gaetan sur l'organisation et Simon sur les informations financières.
+
+
 
