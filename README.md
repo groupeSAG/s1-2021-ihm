@@ -29,5 +29,20 @@ Nous nous sommes répartis le travail sur la page d'acceuil.
 Chaque personne a ensuite rédigé une page de notre site. 
 Adrien a fait la page sur les services rendus, Gaetan sur l'organisation et Simon sur les informations financières.
 
+Toutes les pages ont été vérifiées au validateur W3C : 
+
+Page d'acceuil : 
+![acceuil](doc/acceuil.png)
+
+Page 1 : 
+![Page 1](doc/page1.png)
+
+Page 2 :
+![Page 2](doc/page2.png)
+
+Page 3 :
+![Page 3](doc/page3.png)
+
+
 
 
