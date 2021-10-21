@@ -54,7 +54,7 @@
 .primary_header {
     width: 100%;
     height: 200px;
-    background-color: #52bad5;
+    background-color: dodgerblue;
     padding-top: 10px;
     padding-bottom: 10px;
     clear: left;
@@ -117,12 +117,11 @@
 }
 
 button {
-    padding: Opx;
+
     font-size: 1.5rem;
     width: 400px;
     height: 100px;
     cursor: pointer;
-    border: 0px;
     background: transparent;
     position: relative;
     transition: all .2s;
