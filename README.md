@@ -29,7 +29,7 @@ Nous nous sommes répartis le travail sur la page d'acceuil.
 Chaque personne a ensuite rédigé une page de notre site. 
 Adrien a fait la page sur les services rendus, Gaetan sur l'organisation et Simon sur les informations financières.
 
-Toutes les pages ont été vérifiées au validateur W3C : 
+Toutes les pages ont été vérifiées au validateur W3C (On peut différencier sur les screens les pages à l'aide de la balise title) : 
 
 Page d'acceuil : 
 ![acceuil](doc/acceuil.png)
