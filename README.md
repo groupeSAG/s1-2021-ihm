@@ -17,3 +17,6 @@ On a tout d'abord réalisé un écran de zoning qui servira de modèle à notre 
 On a ensuite transposé ce modèle en html et rajouté des styles pour que cela nous convienne
 
 ![écran prototype](doc/proto.png)
+
+Nous utiliserons le même fichier css pour toutes les pages afin que le site soit homogène.
+
