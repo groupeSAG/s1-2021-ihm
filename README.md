@@ -34,13 +34,13 @@ Toutes les pages ont été vérifiées au validateur W3C (On peut différencier 
 Page d'acceuil : 
 ![acceuil](doc/acceuil.png)
 
-Page 1 : 
+Service rendu : 
 ![Page 1](doc/page1.png)
 
-Page 2 :
+Organisation :
 ![Page 2](doc/page2.png)
 
-Page 3 :
+Infos financières:
 ![Page 3](doc/page3.png)
 
 Page CSS :
